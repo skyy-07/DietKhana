@@ -54,7 +54,7 @@ The system unifies kitchen management, AI-powered meal planning, and grocery aut
 ## 🔗 Live Demo
 
 View the app here:  
-👉 **https://ai.studio/apps/drive/1DKAJVmZPuSrcngntIRg-vBLypnQtx_8L**
+👉 **https://smartfridge20.netlify.app/**
 
 ---
 
